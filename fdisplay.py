@@ -1,0 +1,12 @@
+def display():
+    print("Python")
+    print("Java")
+    print("sql")
+    print("C++")
+display()
+display()
+display()
+display()
+display()
+display()
+display()
